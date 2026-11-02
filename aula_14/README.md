@@ -8,10 +8,3 @@ Aplicação desenvolvida em Python com **FastAPI** para gerenciar receitas de su
 - `GET /sucos`: Retorna a lista de todos os sucos cadastrados.
 - `PUT /sucos/{id}`: Atualiza os dados de um suco e recalcula os valores nutricionais (Desafio Bônus).
 
-## Como Executar Localmente
-
-1. Crie e ative um ambiente virtual:
-   ```bash
-   python -m venv venv
-   # No Windows: venv\Scripts\activate
-   # No Linux/Mac: source venv/bin/activate
